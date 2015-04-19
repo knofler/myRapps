@@ -29,6 +29,7 @@ library("httr")
 
 # keep this order of arguments
 setup_twitter_oauth(key, secret, mytoken, secrettk)
+
 # (1) choose direct authentication
 
 
